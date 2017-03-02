@@ -18,6 +18,7 @@ Una semana antes del evento se seleccionaran las charlas a incluir según:
 * Disponibilidad y conformidad del orador
 * Cantidad de votos positivos (pulgares arriba/+1)
 * Tiempo disponible en el evento
+
 Los temas resultantes (issues) serán incluidos en el Milestone correspondiente a la fecha del evento. Finalizado el evento los Issues pasaran a estado Cerrado
 
 El resto de los temas permanecerán abiertos y disponibles para el próximo proceso de selección. 
