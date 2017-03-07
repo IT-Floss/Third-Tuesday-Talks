@@ -3,9 +3,9 @@ Charlas de diversos temas organizadas cada tercer Martes del mes.
 
 ## Glosario:
 * Charlas o temas: 
-  Serán Issues dentro de este repositorio. Cada charla tendrá disponible un directorio bajo Talks/<nombre_charla>
+  Serán Issues dentro de este repositorio. 
 * Eventos (fechas): 
-  Representados por Milestones. A disposición un directorio dentro de Dates/<Fecha_AAAA-MM-DD_codename>. Ademas dispondrán de un Team y un Project para la organización del evento.
+  Representados por Milestones.
 * Selección de temas: 
   A travez de votos representados como "pulgares arriba" (reaction +1) sobre los temas (issues).
 
