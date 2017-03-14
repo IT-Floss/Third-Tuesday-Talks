@@ -1,19 +1,19 @@
 # Third-Tuesday-Talks
 Charlas de diversos temas organizadas cada tercer Martes del mes.
 
-Podes encontrar las charlas que hemos realizado [aqui](https://github.com/IT-Floss/Third-Tuesday-Talks/issues?utf8=%E2%9C%93&q=is%3Aissue%20state%3Aclose) o en nuestra web [itfloss.rocks](http://itfloss.rocks)
+Podes encontrar las [charlas](https://github.com/IT-Floss/Third-Tuesday-Talks/issues?utf8=%E2%9C%93&q=is%3Aissue%20state%3Aclose) y [eventos](https://github.com/IT-Floss/Third-Tuesday-Talks/milestones) que hemos realizado en nuestra web [itfloss.rocks](http://itfloss.rocks)
 
 ## Procedimiento General
 ### Propuesta de Temas
-Las propuestas se realizan a través de issues en el repositorio indicando la temática de la charla duración, etc. Encontraran un template guía dentro bajo Talks/_Skeleton
+Los invitamos a realizar propuestas de charlas a través de issues en el repositorio indicando la temática, duración, etc. 
 
 ###  Selección de propuestas
-Una semana antes del evento se seleccionaran las charlas a incluir según:
+Dos semanas antes del evento se seleccionaran las charlas a incluir según:
 * Disponibilidad y conformidad del orador
 * Cantidad de votos positivos (pulgares arriba/+1)
 * Tiempo disponible en el evento
 
-Los temas resultantes (issues) serán incluidos en el Milestone correspondiente a la fecha del evento. Finalizado el evento los Issues pasaran a estado Cerrado
+Los charlas seleccionadas serán incluidos en el Milestone correspondiente a la fecha del evento.
 
 El resto de los temas permanecerán abiertos y disponibles para el próximo proceso de selección. 
 
